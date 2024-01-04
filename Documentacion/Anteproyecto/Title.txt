@@ -1,1 +1,0 @@
-Sistema de evaluación de desempeño en RCP durante prácticas de primeros auxilios en ambientes de simulación con Amazon Alexa.
